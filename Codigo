@@ -1,0 +1,7 @@
+cd /workspace/shadcn-ui
+git init
+git add .
+git commit -m "Primera versión del sitio web de Antony SL"
+git branch -M main
+git remote add origin https://github.com/antonio32sl/codigo-primero.git
+git push -u origin main
