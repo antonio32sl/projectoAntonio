@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Primera versión del sitio web de Antony SL"
 git branch -M main
-git remote add origin https://github.com/su-usuario/su-repositorio.git
+git remote add origin https://github.com/antonio32sl/codigoprimero.git
 git push -u origin main
